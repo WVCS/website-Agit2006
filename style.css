@@ -1,6 +1,5 @@
 <style>
-
-{nav { list-style-type: none;
+nav { list-style-type: none;
       background-color:black;
       width: 100%; 
       position: fixed;
@@ -22,5 +21,4 @@ a {
   font-family: Arial; 
 }
 
-}
 </style>
