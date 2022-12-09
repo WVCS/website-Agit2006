@@ -1,6 +1,6 @@
 <style>
 nav { list-style-type: none;
-      background-color:black;
+      background-color:gray;
       width: 100%; 
       position: fixed;
       top: 0;
@@ -13,11 +13,11 @@ li {
   float: right;
 }
 li:hover {
-   background-color: gold; 
+   background-color:gold; 
 }
 a {
   text-decoration: none;
-  color: white;
+  color:white;
   font-family: Arial; 
 }
 
