@@ -1,5 +1,5 @@
 nav { list-style-type: none;
-      background-color:Gray;
+      background-color:gray;
       width: 100%; 
       position: fixed;
       top: 0;
@@ -12,10 +12,12 @@ li {
   float: right;
 }
 li:hover {
-   background-color: gold; 
+   background-color: red; 
 }
 a {
   text-decoration: none;
   color: white;
-  font-family: Arial; 
+  font-family: caramond;
+  font-style: oblique;
+  font-weight: bold;
 }
